@@ -4,7 +4,7 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
 
-### Hi there, I'm [RUDRA PRATAP SINGH]    {([![Linked In](https://img.shields.io/badge/-linkin-blue?style=round&amp;labelColor=white;logo=linkedin&amp;logoColor=blue)](https://www.linkedin.com/in/rudra-pratap-singh-29151a268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))}
+### Hi there, I'm [RUDRA PRATAP SINGH]    [![Linked In](https://img.shields.io/badge/-linkin-blue?style=round&amp;labelColor=white;logo=linkedin&amp;logoColor=blue)](https://www.linkedin.com/in/rudra-pratap-singh-29151a268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
