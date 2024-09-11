@@ -6,7 +6,7 @@
 
 ### Hi there, I'm [RUDRA PRATAP SINGH]    [![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=round&amp;labelColor=white;logo=linkedin&amp;logoColor=blue)](https://www.linkedin.com/in/rudra-pratap-singh-29151a268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+I am an intermediate Go lang developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
 
 - 💻 {( Currently i am learning Go Lang [Go](https://en.wikipedia.org/wiki/Go_(programming_language))-, it is a programming lang developed by google [Go Setup](https://go.dev/) and our team is currently working on a project named as YIE-       School. )}
